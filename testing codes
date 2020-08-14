@@ -1,0 +1,18 @@
+LOADING MULTIPLE OF EXCEL FILES ON PANDA 
+> 6 in total - can use these to compare and create new discoveries like recipes, research on ... etc
+dataframe0 = pd.read_xlsx(")
+dataframe1 = 
+datatframe2 = 
+
+dataframes = [dataframe0, dataframe1 ... ]
+
+> create a list 
+> using globs
+> concatenate multiple excel data files 
+> then print them out 
+
+> make a dictionary for easy access 
+
+Analysed, Recipe, Borrowed, Imputed, Label, Calculated 
+ 
+doing a pie chart 
